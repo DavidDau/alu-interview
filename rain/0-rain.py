@@ -32,4 +32,3 @@ def rain(walls):
             right -= 1
 
     return water
-    
