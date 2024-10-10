@@ -26,6 +26,4 @@ def pascal_triangle(n):
         triangle.append(row)
     
     return triangle
-
-# Example usage:
-print(pascal_triangle(5))
+    
